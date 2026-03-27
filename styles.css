@@ -569,3 +569,11 @@ main {
     font-size: clamp(2.2rem, 9vw, 3.4rem);
   }
 }
+
+.topic-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 16px;
+  margin-bottom: 1rem;
+}
